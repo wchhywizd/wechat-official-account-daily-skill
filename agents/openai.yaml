@@ -1,0 +1,7 @@
+interface:
+  display_name: "微信公众号内容生产"
+  short_description: "写作、配图、排版并推送草稿"
+  brand_color: "#C0002B"
+  default_prompt: "Use $wechat-official-account-daily to create a WeChat article with structure, visuals, layout, and draft-box handoff."
+policy:
+  allow_implicit_invocation: true
